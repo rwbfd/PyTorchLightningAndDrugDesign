@@ -25,7 +25,7 @@ Official implementation of **DiffSBDD**, an equivariant model for structure-base
 ```bash
 conda create -n sbdd-env
 conda activate sbdd-env
-conda install pytorch cudatoolkit=10.2 -c pytorch
+conda install pytorch cudatoolkit -c pytorch
 conda install -c conda-forge pytorch-lightning
 conda install -c conda-forge wandb
 conda install -c conda-forge rdkit
