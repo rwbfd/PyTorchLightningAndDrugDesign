@@ -1,6 +1,0 @@
-torch
-pytorch-lightning
-numpy
-torchvision
-matplotlib
-Pillow>=7.1.0
